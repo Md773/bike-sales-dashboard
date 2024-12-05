@@ -13,10 +13,10 @@ This project analyzes bike sales data to uncover trends and insights. The analys
 3. Commute distance affects bike purchases significantly.
 
 ## Visualizations
-Visualizations can be found in the `visuals/` folder:
-- `income_vs_purchase.png`: Chart showing average income vs. purchase behavior.
-- `age_bracket_chart.png`: Breakdown of purchases by age group.
-- `age_bracket_chart.png`: Breakdown of purchases by age group.
+Visualizations can be found in the `visuals/` folder: Dashboard.pdf
+- `income_vs_purchase`: Chart showing average income vs. purchase behavior.
+- `age_bracket_chart`: Breakdown of purchases by age group.
+- `customer_commute_chart`: Chart showing customer commutes vs. purchase behavior.
 
 ## Tools
 - **Excel**: Used for analysis and visualization.
