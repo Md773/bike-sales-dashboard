@@ -27,5 +27,5 @@ Visualizations can be found in the `visuals/` folder: Dashboard.pdf
 - Incorporate more datasets for comparative analysis.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [License for sharing](LICENSE).
 
