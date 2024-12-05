@@ -16,6 +16,7 @@ This project analyzes bike sales data to uncover trends and insights. The analys
 Visualizations can be found in the `visuals/` folder:
 - `income_vs_purchase.png`: Chart showing average income vs. purchase behavior.
 - `age_bracket_chart.png`: Breakdown of purchases by age group.
+- `age_bracket_chart.png`: Breakdown of purchases by age group.
 
 ## Tools
 - **Excel**: Used for analysis and visualization.
